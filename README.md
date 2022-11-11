@@ -6,9 +6,8 @@ My current research revolves around thermal image classification and detection.
 ### :mailbox: Reach me out! ###
 <div align = center>
 
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Shaiq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irtaza-sajid/) 
-[![Mail Badge](https://img.shields.io/badge/-@shaiqespeare-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/irtaza.exists) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shaiq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiqi/) 
+[![Mail Badge](https://img.shields.io/badge/-@shaiqespeare-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/shaiqspeare._?igshid=NDc0ODY0MjQ=) 
 [![Mail Badge](https://img.shields.io/badge/-shaiqi2001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shaiqi2001@gmail.com)
 </div>
 

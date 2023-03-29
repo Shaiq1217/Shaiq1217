@@ -11,8 +11,6 @@ My current research revolves around thermal image classification and detection.
 [![Mail Badge](https://img.shields.io/badge/-shaiqi2001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shaiqi2001@gmail.com)
 </div>
 
-- 🔭 I’m currently working as a Research Intern for <a href = "https://nastp.brightspyre.com/jobs">NASTAP</a> (National Aerospace Science and Technology Park)
-
 - 📫 How to reach me: Send something my way @ shaiqi2001@gmail.com
 
 - ⚡ Fun fact: I am fascinated by concepts of philosophy and how it plays a role in society.

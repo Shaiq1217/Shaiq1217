@@ -1,7 +1,6 @@
 ## Hi I'm Shaiq <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Shaiq e Mustafa, a Computer Engineering Student inspired to work with Computer Vision and Machine Learning. I spend most of my time trying out new ideas from various walks of computer engineering.
-My current research revolves around thermal image classification and detection.
+I'm Shaiq e Mustafa, a MERN developer with a keen interest in Web and ML technologies. I am currently working <link href="https://www.gosaas.io/">@GoSaaSLabs</link>. I like to contribute towards other blooming projects. If you think I can help you with something, send something my way.
 
 ### :mailbox: Reach me out! ###
 <div align = center>

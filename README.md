@@ -1,6 +1,6 @@
 ## Hi I'm Shaiq <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Shaiq e Mustafa, a MERN developer with a keen interest in Web and ML technologies. I am currently working <a href="https://www.gosaas.io/">@GoSaaSLabs</a>. I like to contribute towards other blooming projects. If you think I can help you with something, send something my way.
+I'm Shaiq e Mustafa, a full stack web developer with a keen interest in various web technologies (majorly MERN and .NET). I am currently working <a href="https://www.gosaas.io/">@GoSaaS Inc.</a>. I like to contribute towards other blooming projects. If you think I can help you with something, send something my way. 
 
 ### :mailbox: Reach me out! ###
 <div align = center>

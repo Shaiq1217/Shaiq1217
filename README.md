@@ -19,6 +19,7 @@ I'm Shaiq e Mustafa, a full stack web developer with a keen interest in various 
 
 #### Top Frameworks & Libraries
 [![React Badge](https://img.shields.io/badge/React-%23234F70.svg?style=for-the-badge&logo=React&logoColor=white)](#)
+[![C# Badge](https://img.shields.io/badge/C%23-%237128C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Node Badge](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](#)

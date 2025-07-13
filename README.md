@@ -15,10 +15,10 @@ I'm **Shaiq e Mustafa**, a full-stack web developer transitioning into **AI/ML r
 I would love to hear feedback and new insights so lets get cracking!
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Shaiq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiqi/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiqi/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shaiqi2001)
-[![Instagram Badge](https://img.shields.io/badge/-@shaiqspeare-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/shaiqspeare._?igshid=NDc0ODY0MjQ=) 
-[![Gmail Badge](https://img.shields.io/badge/-shaiqi2001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shaiq.e.mustafa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaiqspeare._?igshid=NDc0ODY0MjQ=) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiq.e.mustafa@gmail.com)
 
 </div>  
 

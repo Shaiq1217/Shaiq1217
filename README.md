@@ -27,24 +27,36 @@ I would love to hear feedback and new insights so lets get cracking!
 ## 🛠️ **Tech Stack**  
 
 ### 🧠 **AI/ML Stack**  
+<div align="center">
+  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)](#)
 
+</div>  
+
 ### 🚀 **Top Frameworks & Libraries**  
+<div align="center">
+  
 [![React Badge](https://img.shields.io/badge/React-%23234F70.svg?style=for-the-badge&logo=React&logoColor=white)](#)
 [![Node Badge](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/C%23-%237128C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](#)
 
+</div>
 
 ### 📚 **Languages**  
+
+<div align="center">
+  
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=white)](#)
+
+</div>
 
 ---
 

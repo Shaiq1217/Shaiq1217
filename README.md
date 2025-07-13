@@ -69,9 +69,9 @@ I would love to hear feedback and new insights so lets get cracking!
 
 ---
 ## 🎯 **Next Goals**
-- 📄 **Publishing a research paper based on VAE and Underwater Acoustics**  
-- 🤖 **Exploring anomaly detection in radar/sonar signals**  
-- 🏆 **Expanding my AI/ML portfolio** with **PyTorch & TensorFlow projects**  
+- 📄 **Publishing peer reviewed research on the intersection of machine learning and its applications to physical systems**  
+- 🤖 **Exploring anomaly detection in various contexts**  
+- 🏆 **Expanding my AI/ML portfolio** with **deployable PyTorch projects**   
 
 ---
 

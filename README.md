@@ -1,7 +1,7 @@
 ## Hi, I'm Shaiq! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 ### 👨‍💻 About Me  
-I'm **Shaiq e Mustafa**, a full-stack web developer transitioning into **AI/ML research**, specifically focusing on **non visual sensing** and **digital signal processing**. I am currently working [@GoSaaS Inc.](https://www.gosaas.io/) at Intel Malaysia.  
+I'm **Shaiq e Mustafa**, a full-stack web developer transitioning into **AI/ML research**, specifically focusing on **physical systems** and **digital signal processing**. I am currently working [@GoSaaS Inc.](https://www.gosaas.io/) at Intel Malaysia.  
 
 - 🎯 **Current Focus:** AI-driven **radar target classification**, **underwater acoutsics**, and **signal processing**.  
 - 🔍 **Previously:** Worked on **MERN, .NET, and scalable full-stack applications**.  

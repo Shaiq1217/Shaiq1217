@@ -3,9 +3,9 @@
 ### 👨‍💻 About Me  
 I'm **Shaiq e Mustafa**, a full-stack web developer transitioning into **AI/ML research**, specifically focusing on **physical systems** and **digital signal processing**. I am currently working [@GoSaaS Inc.](https://www.gosaas.io/) at Intel Malaysia.  
 
-- 🎯 **Current Focus:** AI-driven **radar target classification**, **underwater acoutsics**, and **signal processing**.  
+- 🎯 **Current Focus:** AI-driven **radar target classification**, **underwater acoutsics**, and **phyiscs-driven systems**.  
 - 🔍 **Previously:** Worked on **MERN, .NET, and scalable full-stack applications**.  
-- 🌱 **Currently Learning:** **PyTorch, Generative AI and Signal Processing Simulations**.  
+- 🌱 **Currently Learning:** **PyTorch, Generative AI**, **Signal Processing Simulations** and **Physics Informed Simulations**.  
 - ⚡ **Fun Fact:** I'm fascinated by **philosophy and its impact on society**.  
 
 ---

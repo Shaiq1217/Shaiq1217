@@ -67,7 +67,7 @@ I would love to hear feedback and new insights so lets get cracking!
 
 </div>
 
---
+---
 ## 🎯 **Next Goals**
 - 📄 **Publishing a research paper based on VAE and Underwater Acoustics**  
 - 🤖 **Exploring anomaly detection in radar/sonar signals**  
